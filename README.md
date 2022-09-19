@@ -1,3 +1,13 @@
+A simple Graph Editor created with cytoscape.js
+TODO:
+- fix some bugs
+- Improve UI
+- add undo/redo buttons
+- save current graph on reload
+- Implement various algorithms w/ visuals
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
